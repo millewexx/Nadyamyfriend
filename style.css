@@ -66,3 +66,7 @@ img {
     border-radius: 15px;
 }
 
+main a{
+ border-radius: 16px;
+ background-color:white;   
+}
