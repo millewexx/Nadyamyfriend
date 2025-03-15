@@ -37,3 +37,8 @@ main {
 img {
     border-radius: 16px;
 }
+
+main a{
+ border-radius: 26px;
+ background-color:white;   
+}
