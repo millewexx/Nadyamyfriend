@@ -1,1 +1,68 @@
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 16px;
+    text-align: center;
+    border-radius: 16px;
+
+}  
+body{
+    background-color: hsl(355, 54%, 83%);
+        font-family: Times New Roman, Helvetica, sans-serif;
+
+}
+
+footer p{
+    padding: 8px;
+    border-radius: 16px;
+    border: 2px solid black
+}
+nav a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-bottom: 4px solid black;
+    padding: 8px;
+
+}
+
+main p {
+    padding: 8px;
+    border-radius: 16px;
+    border: 2px solid black
+}
+
+main {
+    text-align: center;
+}
+
+img {
+    border-radius: 16px;
+}
+
+.Nadya{
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+}
+
+.Andrey{
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+}
+
+.meow{
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 16px;
+    border: 2px solid black
+
+}
+
+.nik_Nadia{
+     background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.phone{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
 
